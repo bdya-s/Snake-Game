@@ -1,5 +1,5 @@
 # Snake-Game
-Python based game 
+Python based game - written using OOP concepts.
 
 Game Rules:
   - Use left, right, up, and down buttons to move and eat food (.)
